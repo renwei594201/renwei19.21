@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.rw.dto.Student;
 import com.rw.service.MyService;
-
+//委托人隐形飞机，人，信誉度他们说的那天SB吃饭多年后
 @Controller
 public class MyController {
 	@Autowired
